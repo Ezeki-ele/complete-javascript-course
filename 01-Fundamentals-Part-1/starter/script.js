@@ -1,6 +1,7 @@
-let js = 'amazing';
-20 + 8 + 21 - 10;
+let country = "Italy";
+let continent = "Europe";
+let population = "60Mi";
 
-console.log('Hi :)');
-console.log('Emily');
-console.log('how are you?');
+console.log(country);
+console.log(continent);
+console.log(population);
